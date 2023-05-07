@@ -1,3 +1,5 @@
+<img src="https://www.taxscan.in/wp-content/uploads/2022/06/Income-Tax-Liability-Unsecured-Loan-Transactions-ITAT-taxscan.jpg">
+
 To achieve their goal of converting liability customers to personal loan customers, Thera Bank's management has decided to devise new marketing campaigns with better target marketing. This approach aims to increase the success ratio of the campaign while keeping the costs at a minimum.
 
 In the past, the bank had already run a campaign for liability customers, which resulted in a healthy conversion rate of over 9% success. This positive outcome has encouraged the retail marketing department to explore more effective ways to target customers and increase the conversion rate.
