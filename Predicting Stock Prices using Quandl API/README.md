@@ -1,0 +1,3 @@
+Linear regression is a statistical modeling technique that involves finding a linear relationship between two variables, which in this case would be the historical stock prices and the predicted future prices. Quandl is a platform that provides financial and economic data, including historical stock prices for various companies.
+
+Quandl dataset and linear regression is used to predict future stock prices based on past price trends. This technique can be useful for making investment decisions, but it's important to keep in mind that the stock market is complex and unpredictable, and there are many factors beyond historical prices that can influence stock prices.
