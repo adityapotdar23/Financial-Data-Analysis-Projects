@@ -18,3 +18,4 @@ List Kafka Topics:
 
 python send_stock_data.py 
 streamlit run ask_for_data.py
+
